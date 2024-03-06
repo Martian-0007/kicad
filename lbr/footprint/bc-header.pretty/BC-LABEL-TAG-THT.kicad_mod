@@ -1,0 +1,124 @@
+(footprint "BC-LABEL-TAG-THT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0048284c-f18d-4588-bdbf-7d32b4ba9f49")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fe9dfd45-1ae3-4db7-88b9-bd6e5245f19d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74613b90-c2a0-4e23-b2a9-f6ec2307390d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff60526e-d65c-4310-aa4c-22837f32cf82")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32920bd2-03b5-447e-87c8-49802e384eea")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_text user "VDD"
+		(at 3.048 2.54 0)
+		(layer "B.SilkS")
+		(uuid "370afc47-9322-4a2b-bdf9-c20c5ec06e61")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify right mirror)
+		)
+	)
+	(fp_text user "SDA"
+		(at 3.048 -2.54 0)
+		(layer "B.SilkS")
+		(uuid "4fdc1db4-350d-4eb2-82cf-7337450ea4a2")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify right mirror)
+		)
+	)
+	(fp_text user "SCL"
+		(at 3.048 0 0)
+		(layer "B.SilkS")
+		(uuid "6928ad74-1219-4114-b2ee-0cb3e83c7581")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify right mirror)
+		)
+	)
+	(fp_text user "INT"
+		(at 3.048 -5.08 0)
+		(layer "B.SilkS")
+		(uuid "c286fe5b-d5a7-4a82-80a2-45c27c5eb127")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify right mirror)
+		)
+	)
+	(fp_text user "GND"
+		(at 3.048 5.08 0)
+		(layer "B.SilkS")
+		(uuid "dc0bfc82-3813-4ac1-84c3-d0d5d52fc4cf")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify right mirror)
+		)
+	)
+)

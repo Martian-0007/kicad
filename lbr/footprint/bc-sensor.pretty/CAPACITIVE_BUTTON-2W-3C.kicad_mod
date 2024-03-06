@@ -1,0 +1,92 @@
+(footprint "CAPACITIVE_BUTTON-2W-3C"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bb2a9d10-eedf-4434-8ef1-f8d1651ba708")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "63893cfc-dd78-4396-baea-e60164610c4e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aef3dea4-774e-4cb2-98b8-ae9096f26c75")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25a53a35-3c2a-4ca3-adba-a3a2754021b5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a74623e7-c8bc-408e-a72b-e6205ebe88d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_circle
+		(center 0 0)
+		(end 6 0)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Cu")
+		(uuid "e4967042-f71f-497f-9292-5a89414bf00c")
+	)
+	(pad "RX" smd roundrect
+		(at 0 0)
+		(size 8.2804 8.2804)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "ea89e9c5-2b50-4a46-b8b9-6b189c83c9a7")
+	)
+	(pad "TX" smd rect
+		(at 6 0 270)
+		(size 0.25 0.25)
+		(layers "F.Cu")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "40ca743d-140d-45d9-8bcf-558f30c7549f")
+	)
+)

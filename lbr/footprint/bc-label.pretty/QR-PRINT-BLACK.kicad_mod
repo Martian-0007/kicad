@@ -1,0 +1,105 @@
+(footprint "QR-PRINT-BLACK"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Silkscreen frame for QR code printing")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a3654c30-21c7-433c-a321-bc41cf1c99ea")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "81ef79f7-be72-4ed0-ad7e-e3c52307c913")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e3321e3-b164-4d73-a613-f87d1254592f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9be40736-293a-48b3-a483-03a4e828009b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "170d33dd-f3e6-4954-8a05-804c2ba5dbb6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -3.25 -3.25)
+		(end -3.25 3.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d4935927-efd1-4cc7-bdc4-e95f650abc8b")
+	)
+	(fp_line
+		(start -3.25 3.25)
+		(end 3.25 3.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "569367b2-c809-4f15-8907-134b7409f961")
+	)
+	(fp_line
+		(start 3.25 -3.25)
+		(end -3.25 -3.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9a578f03-e8e0-4558-af6c-736be43efc07")
+	)
+	(fp_line
+		(start 3.25 3.25)
+		(end 3.25 -3.25)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0601c193-219e-4f6c-a755-88d9447e3ac7")
+	)
+)

@@ -1,0 +1,130 @@
+(footprint "BC-LABEL-PIN-1-14-15-28-GND-VDD-MARK"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4f6ed4de-4b59-4a7e-8050-4bf0c00ac685")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "661d9015-b6b2-4f94-9bfe-08d147184a0b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8dca5fb1-2c7c-491d-9560-9415027fda07")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7b08397-fdc6-4b4c-b896-9195a3f21eaf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db448e1b-3f55-4772-b4a4-e3359af1e042")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_text user "28"
+		(at 15.24 -19.05 0)
+		(layer "F.SilkS")
+		(uuid "0f570189-d9cf-453a-845d-a26ddeeabd7f")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "GND"
+		(at 15.24 16.51 90)
+		(layer "F.SilkS")
+		(uuid "1eda082a-0bf1-4b50-80e1-3cc222b3814f")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "15"
+		(at 15.24 19.05 0)
+		(layer "F.SilkS")
+		(uuid "3f8449b5-7ffe-4ed3-a58f-5efb02bcfacb")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "1"
+		(at -15.04 -19.05 0)
+		(layer "F.SilkS")
+		(uuid "46761106-4346-4683-b6cc-c852cef89dff")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "VDD"
+		(at 10.16 13.97 90)
+		(layer "F.SilkS")
+		(uuid "649ce7a7-5573-4d1f-9985-2c2223eb646a")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "14"
+		(at -15.04 19.05 0)
+		(layer "F.SilkS")
+		(uuid "c1a8a093-e3a5-4dec-8b82-d3c943f821bd")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+		)
+	)
+)

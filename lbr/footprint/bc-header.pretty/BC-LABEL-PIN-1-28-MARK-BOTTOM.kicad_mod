@@ -1,0 +1,88 @@
+(footprint "BC-LABEL-PIN-1-28-MARK-BOTTOM"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a6c2ac3d-0338-43d3-b6af-55e85c554b16")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d3212918-f656-49cd-b5c4-97c23683e5be")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51e74ac2-07ed-4878-89f5-265ba53c091b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e718f701-98d4-4ff2-bd51-a9522015e074")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19f3dc4d-d951-49ad-947c-78fd4bd06a90")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_text user "1"
+		(at -15.04 -19.05 0)
+		(layer "B.SilkS")
+		(uuid "367e190f-e427-4c8f-a213-0ca40196bb0f")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "28"
+		(at 15.24 -19.05 0)
+		(layer "B.SilkS")
+		(uuid "af0987cc-b9f3-4e5d-ba7d-d9da9e0a1cd8")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+)
