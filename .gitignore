@@ -1,0 +1,5 @@
+*-backups/
+GBR/
+report.txt
+*.7z
+*.lck
