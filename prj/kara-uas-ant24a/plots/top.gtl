@@ -1,22 +1,22 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*
-G04 #@! TF.CreationDate,2024-03-12T08:50:57+01:00*
-G04 #@! TF.ProjectId,kara-uas-ant24a,6b617261-2d75-4617-932d-616e74323461,1.0*
-G04 #@! TF.SameCoordinates,Original*
-G04 #@! TF.FileFunction,Copper,L1,Top*
-G04 #@! TF.FilePolarity,Positive*
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-03-12T10:04:29+01:00*%
+%TF.ProjectId,kara-uas-ant24a,6b617261-2d75-4617-932d-616e74323461,1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.0) date 2024-03-12 08:50:57*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-03-12 10:04:29*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
-G04 #@! TA.AperFunction,SMDPad,CuDef*
+%TA.AperFunction,SMDPad,CuDef*%
 %ADD10R,1.000000X1.000000*%
-G04 #@! TD*
-G04 #@! TA.AperFunction,SMDPad,CuDef*
+%TD*%
+%TA.AperFunction,SMDPad,CuDef*%
 %ADD11R,2.200000X1.050000*%
-G04 #@! TD*
+%TD*%
 G04 APERTURE END LIST*
 D10*
 X148500000Y-102975000D03*
@@ -26,7 +26,7 @@ D10*
 X145500000Y-102975000D03*
 D11*
 X147000000Y-104450000D03*
-G04 #@! TA.AperFunction,Conductor*
+%TA.AperFunction,Conductor*%
 G36*
 X242042539Y-100520185D02*
 G01*
@@ -100,8 +100,8 @@ X148624000Y-100500500D01*
 X241975500Y-100500500D01*
 X242042539Y-100520185D01*
 G37*
-G04 #@! TD.AperFunction*
-G04 #@! TA.AperFunction,Conductor*
+%TD.AperFunction*%
+%TA.AperFunction,Conductor*%
 G36*
 X145328569Y-100520185D02*
 G01*
@@ -183,5 +183,5 @@ X52024500Y-100500500D01*
 X145261530Y-100500500D01*
 X145328569Y-100520185D01*
 G37*
-G04 #@! TD.AperFunction*
+%TD.AperFunction*%
 M02*
