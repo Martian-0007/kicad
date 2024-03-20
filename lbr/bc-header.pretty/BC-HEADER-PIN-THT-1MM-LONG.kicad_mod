@@ -1,0 +1,76 @@
+(footprint "BC-HEADER-PIN-THT-1MM-LONG"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e8b08097-3899-4576-9cfa-87a8c9f2ce5c")
+		(effects
+			(font
+				(size 0.92 0.92)
+				(thickness 0.08)
+			)
+		)
+	)
+	(property "Value" "BC-HEADER-PIN-THT-1MM-LONG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2c896a41-d9b5-4362-bf75-e88e74e7f65a")
+		(effects
+			(font
+				(size 0.92 0.92)
+				(thickness 0.08)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a1fff6e-6c29-4149-b5d4-ef089f5c9870")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1915be4-a2f5-4f79-863a-73aa89a2941d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77b559fd-e847-45ab-b008-5d118a585227")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(pad "0" thru_hole oval
+		(at 0 0 90)
+		(size 3.6 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "f49ab8de-675b-43a4-aaeb-e1a3474ad1a0")
+	)
+)

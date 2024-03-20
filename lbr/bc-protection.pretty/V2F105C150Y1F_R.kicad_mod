@@ -1,0 +1,215 @@
+(footprint "V2F105C150Y1F_R"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "905714f2-3aca-443d-91a4-1436bc231341")
+		(effects
+			(font
+				(size 0.46 0.46)
+				(thickness 0.04)
+			)
+		)
+	)
+	(property "Value" "V2F105C150Y1F_R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2d31df6f-7306-4cee-9c2e-0dc393e54d32")
+		(effects
+			(font
+				(size 0.46 0.46)
+				(thickness 0.04)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e9da120-8142-4b05-8a21-c96846a9ee6c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19e4f401-c66e-4025-b2c0-6262ec756ac3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47832a01-08f1-4ebb-b7e2-4857e3144ad9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.705 0.635) (xy -1.725 0.635) (xy -1.725 -0.635) (xy -0.705 -0.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "a3d966f7-85e1-41d3-8913-d051a4cf6503")
+	)
+	(fp_poly
+		(pts
+			(xy 0.255 -0.38) (xy -0.26 -0.38) (xy -0.26 -0.89) (xy 0.255 -0.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "25e1ab5c-f57d-41ed-9bc3-15086564291c")
+	)
+	(fp_poly
+		(pts
+			(xy 0.26 0.89) (xy -0.255 0.89) (xy -0.255 0.38) (xy 0.26 0.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "ee6f8666-da60-4af2-a931-a3983187cce4")
+	)
+	(fp_poly
+		(pts
+			(xy 1.725 0.635) (xy 0.705 0.635) (xy 0.705 -0.635) (xy 1.725 -0.635)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.Paste")
+		(uuid "c6b9626e-ccc1-44a5-9f54-59d01643e25e")
+	)
+	(fp_line
+		(start -1.005 -0.635)
+		(end 1.005 -0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5d2d065c-af4a-4c76-ac80-b10c7a9d9572")
+	)
+	(fp_line
+		(start -1.005 0.635)
+		(end -1.005 -0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b58c507a-390e-442b-b799-abb308dff99d")
+	)
+	(fp_line
+		(start 1.005 -0.635)
+		(end 1.005 0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d8ecbc0-6882-4088-9f6f-cbb20663a28d")
+	)
+	(fp_line
+		(start 1.005 0.635)
+		(end -1.005 0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1603a1d1-d2ce-4519-a73c-6da7751f0bf0")
+	)
+	(pad "1" smd rect
+		(at -1.215 0)
+		(size 1.02 1.27)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "373d7080-cf87-4a26-a3c8-2e97b1a39415")
+	)
+	(pad "2" smd rect
+		(at 1.215 0)
+		(size 1.02 1.27)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "07c876c3-22cb-474b-84f7-920bbff60a16")
+	)
+	(pad "3" smd rect
+		(at 0 -0.635)
+		(size 0.51 0.51)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "81210831-3bd7-485a-9a63-1ef977d0f0bc")
+	)
+	(pad "4" smd rect
+		(at 0 0.635)
+		(size 0.51 0.51)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "bf79d3f0-7b2f-48f3-8a05-48afcbe242f0")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "960a84db-eb4b-4101-9190-f94e50ca7f23")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -0.655 -0.585) (xy -0.305 -0.585) (xy -0.305 -0.33) (xy 0.305 -0.33) (xy 0.305 -0.585) (xy 0.655 -0.585)
+				(xy 0.655 0.585) (xy 0.305 0.585) (xy 0.305 0.33) (xy -0.305 0.33) (xy -0.305 0.585) (xy -0.655 0.585)
+			)
+		)
+	)
+)

@@ -1,0 +1,135 @@
+(footprint "SOCKET-SMT-5.0-MID-OUTLINE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "89c9bb56-70ec-4273-a978-544e470c1a07")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" "SOCKET-SMT-5.0-MID-OUTLINE"
+		(at 0 1.524 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "54f47778-6e42-40fe-8479-9569bd5dca3f")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45c7e6da-526f-4536-9cfd-775dc4f8b65b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9088b5e-e572-43bd-b367-a6577edc0094")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d16883f-17a2-4e97-b032-f5668baad3ad")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -1.27 -5)
+		(end 1.27 -5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0d8abae8-0495-4eda-b41d-156bd8da482b")
+	)
+	(fp_line
+		(start -0.32 -0.4)
+		(end -1.27 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "14218f44-d9d7-4d3f-81f2-8206e7cfc720")
+	)
+	(fp_line
+		(start -0.32 -0.4)
+		(end -0.32 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "55a60d88-7de9-4974-925c-81a57ab5002c")
+	)
+	(fp_line
+		(start -0.32 0)
+		(end 0.32 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e82a2da-96bf-4fc0-8a66-adc00ad0588a")
+	)
+	(fp_line
+		(start 0.32 -0.4)
+		(end -0.32 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "257a7c34-c441-4d42-920e-3dfb22987499")
+	)
+	(fp_line
+		(start 0.32 0)
+		(end 0.32 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9b183460-964f-4abd-b3b4-4346c2a3a51f")
+	)
+	(fp_line
+		(start 1.27 -0.4)
+		(end 0.32 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a6d6cd6-b8c6-419a-b76c-803c124f6015")
+	)
+)

@@ -1,0 +1,414 @@
+(footprint "FRAME-A4L-SCALE-1-2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c528ee7e-b22c-4daa-822d-5a55e1ee624b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d5aa3ad2-375f-43a2-a829-46b2262c574c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d624ef2-0a77-4faf-bade-05fbd16e4a52")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0938706f-74da-4df9-91f1-73f48eb2252b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8335130e-d4b1-458a-9865-41c287611fb3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_line
+		(start -71.755 -49.53)
+		(end -71.755 49.53)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "494abf91-90d6-4444-907f-4a6eb664f4c6")
+	)
+	(fp_line
+		(start -71.755 49.53)
+		(end 71.755 49.53)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "57abe26d-5f34-4a8e-989b-6838542e3795")
+	)
+	(fp_line
+		(start 12.065 38.1)
+		(end 32.385 38.1)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "e14e69c0-cf1d-4685-a6b6-8204f54cdb47")
+	)
+	(fp_line
+		(start 12.065 48.26)
+		(end 12.065 38.1)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "92c2051d-0f20-45a3-bd98-939a31a61690")
+	)
+	(fp_line
+		(start 12.065 48.26)
+		(end 32.385 48.26)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "753733d5-454d-45e2-bcd4-2a7803b68ccb")
+	)
+	(fp_line
+		(start 32.385 38.1)
+		(end 32.385 43.18)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "3fa6ffc3-3b38-492c-8530-676ac4c1f8e1")
+	)
+	(fp_line
+		(start 32.385 38.1)
+		(end 70.485 38.1)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "f5ac8ade-cf95-41ea-9bca-d1ae6eec7e15")
+	)
+	(fp_line
+		(start 32.385 43.18)
+		(end 32.385 45.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "a8fbaf85-b026-4f0b-8e2d-2f7602ed5915")
+	)
+	(fp_line
+		(start 32.385 43.18)
+		(end 70.485 43.18)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "d729aa6f-a018-4a5f-b70d-ad3055e2e74f")
+	)
+	(fp_line
+		(start 32.385 45.72)
+		(end 32.385 48.26)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "abfb9c8f-1532-4a87-bcb2-cef01faeb266")
+	)
+	(fp_line
+		(start 32.385 45.72)
+		(end 70.485 45.72)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "62714554-eebb-4473-9d6c-a0bb3f3e7d35")
+	)
+	(fp_line
+		(start 32.385 48.26)
+		(end 70.485 48.26)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "a9ed35e1-b598-4ded-b3f7-765862294080")
+	)
+	(fp_line
+		(start 70.485 43.18)
+		(end 70.485 38.1)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "4c03379c-7e0a-43bb-854d-a7279cb79a90")
+	)
+	(fp_line
+		(start 70.485 45.72)
+		(end 70.485 43.18)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "67730c1a-4cc2-4d7f-9623-e04395a9a13d")
+	)
+	(fp_line
+		(start 70.485 48.26)
+		(end 70.485 45.72)
+		(stroke
+			(width 0.381)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "ce945570-42da-4b55-85b2-18eea2b05a53")
+	)
+	(fp_line
+		(start 71.755 -49.53)
+		(end -71.755 -49.53)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "dc9f8345-4f1e-48b4-a79b-b74abfb44ded")
+	)
+	(fp_line
+		(start 71.755 49.53)
+		(end 71.755 -49.53)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "Cmts.User")
+		(uuid "ac5a3ab9-3a65-478c-a401-63e07fa7d049")
+	)
+	(fp_text user "You should have received a copy of the licence along with this"
+		(at -70.485 46.99 0)
+		(layer "Cmts.User")
+		(uuid "16d5b81e-89ee-4d71-857c-7d9ca01f92f6")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${PROJECT_NAME}"
+		(at -70.485 40.64 0)
+		(layer "Cmts.User")
+		(uuid "174799c8-9bbb-447c-9d72-ddec0572cde8")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "CERN Open Hardware Licence version 1.2."
+		(at -70.485 44.45 0)
+		(layer "Cmts.User")
+		(uuid "18e04781-9176-4ab9-b92e-d3428851f2e6")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${PROJECT_NAME}"
+		(at -70.485 43.18 0)
+		(layer "Cmts.User")
+		(uuid "2b5912b9-f3bb-44cc-8cb4-b1b2f14edc4e")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "work. If not, see <http://www.ohwr.org/cernohl>."
+		(at -70.485 48.26 0)
+		(layer "Cmts.User")
+		(uuid "48d4f7fc-d1d4-4dcd-964f-dfda2fe646b2")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${CURRENT_DATE}"
+		(at 42.545 46.99 0)
+		(layer "Cmts.User")
+		(uuid "4c354c08-a1a9-49a0-8eb7-191a6ae1a648")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "MODIFIED:"
+		(at 33.655 46.99 0)
+		(layer "Cmts.User")
+		(uuid "4f4c4a4c-5dc7-4dfd-908d-cf3a1dc40667")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "OPEN-SOURCE ELECTRONICS"
+		(at 13.335 43.18 0)
+		(layer "Cmts.User")
+		(uuid "59270355-c755-4dcc-8968-37b97566b5cc")
+		(effects
+			(font
+				(size 0.722489 0.722489)
+				(thickness 0.137617)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "BIGCLOWN"
+		(at 13.335 40.64 0)
+		(layer "Cmts.User")
+		(uuid "66442f91-65e2-44af-9a1f-c6d165cb6b2c")
+		(effects
+			(font
+				(size 2.177274 2.177274)
+				(thickness 0.414719)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "(c) by BigClown Labs s.r.o."
+		(at -58.42 40.64 0)
+		(layer "Cmts.User")
+		(uuid "74d8b913-38ba-4361-bfb5-7764e8df372a")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "is licensed under the"
+		(at -58.42 43.18 0)
+		(layer "Cmts.User")
+		(uuid "87d158d6-bcf2-4f92-9d41-9e836cab2909")
+		(effects
+			(font
+				(size 0.74676 0.74676)
+				(thickness 0.14224)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${PROJECT_REVISION}"
+		(at 42.545 44.45 0)
+		(layer "Cmts.User")
+		(uuid "9a08dd9f-d495-46da-82a6-d20794459858")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "${PROJECT_NAME}"
+		(at 33.655 40.64 0)
+		(layer "Cmts.User")
+		(uuid "e66185b3-8ace-4d83-a9f5-57ce8d45c58e")
+		(effects
+			(font
+				(size 1.6002 1.6002)
+				(thickness 0.3048)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "REVISION:"
+		(at 33.655 44.45 0)
+		(layer "Cmts.User")
+		(uuid "e6e73d66-bca9-4e3c-ba8c-3dd49f107b58")
+		(effects
+			(font
+				(size 0.93472 0.93472)
+				(thickness 0.08128)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "WWW.BIGCLOWN.COM"
+		(at 13.335 46.355 0)
+		(layer "Cmts.User")
+		(uuid "ff803822-8155-44c5-96c5-03becf6cdd75")
+		(effects
+			(font
+				(size 1.122539 1.122539)
+				(thickness 0.213817)
+			)
+			(justify left)
+		)
+	)
+)

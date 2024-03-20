@@ -1,0 +1,73 @@
+(footprint "CAPACITIVE_BUTTON-1W-10MM"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1e7bc7a5-abcb-459d-9c20-e15f533a0aa5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2c91b60d-e975-4611-b4de-fcdef78465bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5da70bbf-3bdc-4119-b8b3-baa26f9f8239")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0902d16f-59cd-480f-bf69-96fbd8a0b285")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e228f3b3-7a55-4055-8f76-01294043b5ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(pad "TCH" smd roundrect
+		(at 0 0)
+		(size 10 10)
+		(layers "F.Cu")
+		(roundrect_rratio 0.5)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "67a1986f-63e4-4fdc-b0d8-1b5c58ed1793")
+	)
+)
