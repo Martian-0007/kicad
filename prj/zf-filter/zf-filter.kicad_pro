@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|142500000|100000000|b6e0565a-3da7-401c-9a5d-57969db85e0e|2f359b1d-2ec1-43dd-a183-487f4d30cb55"
+      ],
       "meta": {
         "version": 2
       },
@@ -467,7 +469,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Filtr.kicad_pro",
+    "filename": "zf-filter.kicad_pro",
     "version": 1
   },
   "net_settings": {
