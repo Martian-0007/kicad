@@ -1,4 +1,4 @@
-24453415998222798
+24456838404552230
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100176,3 +100176,17 @@ CHESTER-X-NO-SPRING
 0
 17
 17
+imports
+D-THT-P6KE
+
+
+0
+2
+2
+imports
+DIOAD1300W80L670D310
+
+
+0
+2
+2
