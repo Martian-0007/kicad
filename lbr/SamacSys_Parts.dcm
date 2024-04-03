@@ -6,4 +6,10 @@ K
 F http://www.ti.com/lit/ds/symlink/ne555.pdf
 $ENDCMP
 #
+$CMP NE555PS
+D Timers & Support Products Single Precision Timer 8-SO
+K
+F https://www.arrow.com/en/products/ne555ps/texas-instruments
+$ENDCMP
+#
 #End Doc Library

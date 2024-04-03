@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|142500000|92500000|3b7d7ae8-54d4-4b35-9ac2-ee3b9c7fea82|553b89b4-8102-4ffb-8a12-54254721bbbe"
+      ],
       "meta": {
         "version": 2
       },
@@ -507,7 +509,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
